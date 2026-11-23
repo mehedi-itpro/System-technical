@@ -1,0 +1,9 @@
+# Filled-in company documentation belongs in a private repo.
+private/
+real-*/
+*.pfx
+*.pem
+*.key
+*.kdbx
+.env
+.DS_Store
