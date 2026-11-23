@@ -1,0 +1,4 @@
+name,type,role,os,site,ip,cpu,ram_gb,storage_gb,backup,warranty_end,owner,notes
+HV-01,Physical,Hyper-V host,Windows Server (example),HO,10.10.20.11,16,128,2000,Yes,2027-05-01,IT,Example row - replace
+DC-01,VM,Domain controller and DNS,Windows Server (example),HO,10.10.20.21,4,8,100,Yes,,IT,Example row - replace
+FS-01,VM,File server,Windows Server (example),HO,10.10.20.31,4,16,1000,Yes,,IT,Example row - replace

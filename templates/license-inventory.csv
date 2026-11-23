@@ -1,0 +1,4 @@
+product,vendor,licence_type,quantity_bought,quantity_used,term_start,renewal_date,billing,annual_cost,owner,notes
+Microsoft 365 Business Premium (example),Microsoft,Subscription per user,100,96,2025-01-01,2026-12-31,Annual,,IT,Example row - replace
+Backup software (example),ExampleVendor,Subscription per server,5,4,2025-03-01,2026-02-28,Annual,,IT,Example row - replace
+Antivirus (example),Microsoft,Included in M365,100,96,2025-01-01,2026-12-31,Included,,IT,Example row - replace

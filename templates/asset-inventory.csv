@@ -1,0 +1,4 @@
+asset_tag,type,make,model,serial,assigned_to,site,purchase_date,warranty_end,status,notes
+EX-0001,Laptop,ExampleMake,ExampleModel A,SN-EXAMPLE-0001,User One,HO,2024-01-15,2027-01-15,In use,Example row - replace
+EX-0002,Desktop,ExampleMake,ExampleModel B,SN-EXAMPLE-0002,User Two,PS-01,2023-06-01,2026-06-01,In use,Example row - replace
+EX-0003,Switch,ExampleMake,ExampleModel C,SN-EXAMPLE-0003,,HO,2022-03-10,2025-03-10,In use,Core switch (example)
